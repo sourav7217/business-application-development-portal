@@ -1,0 +1,44 @@
+#menu
+{
+float:left;
+background-color:#bcb8f0;
+width:100%;
+height:20%;	
+border-bottom:1px solid #2116a2;
+position:fixed;
+top :0;	
+left:0;
+}
+
+#logo
+{
+float:left;
+width:12%;
+height:100%;
+}
+
+#logotext
+{
+float:left;
+width:88%;
+height:100%;
+font-size:5%;
+display:flex;
+flex-direction:column;
+margin-top:2%;
+}
+
+#text_box
+{
+margin-top:20%;
+float:left;
+width:100%;
+height:100%;
+}
+
+#text_box a
+{
+text-decoration :none;	
+}
+
+
