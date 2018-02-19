@@ -1,1 +1,1 @@
-# sp1
+Designing and Development of BHEL BUSINESS APPLICATION DEVELOPMENT PORTAL using  JSP during    internship in BHEL, Kolkata. Worked with both front-end and back-end development in that website & used mysql for database.
